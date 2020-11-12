@@ -1,0 +1,10 @@
+PyYAML==5.1.2
+Flask==1.0.3
+Flask-Caching==1.7.1
+Flask-SocketIO==4.0.0
+autopep8==1.4.4
+boto3==1.9.154
+pandas==0.24.2
+gunicorn==19.9.0
+eventlet==0.25.0
+requests==2.22.0
