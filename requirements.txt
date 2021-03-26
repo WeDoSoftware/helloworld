@@ -1,4 +1,4 @@
-PyYAML==5.1.2
+PyYAML==5.4
 Flask==1.0.3
 Flask-Caching==1.7.1
 Flask-SocketIO==4.0.0
